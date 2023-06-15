@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning web desgining.
 - 💞️ I’m looking to collaborate on google.
 - 📫 i want to do a startup.
-<a href="https://www.instagram.com/rishabh_raj433/" ><img src="https://img.shields.io/instagram/follow/rishabh_raj433.svg?style=social" /> </a>
 <!---
 Rishabh-raj-kumar/Rishabh-raj-kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
