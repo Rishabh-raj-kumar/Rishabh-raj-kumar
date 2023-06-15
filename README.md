@@ -16,10 +16,12 @@ You can click the Preview link to take a look at your changes.
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 </p>
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
 
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zluvsand)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zluvsand/)
+</p>
 
