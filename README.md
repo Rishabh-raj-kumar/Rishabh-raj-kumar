@@ -23,3 +23,5 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zluvsand/)
 </p>
 
+[![An image of @rishabh908's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishabh908)](https://holopin.io/@rishabh908)
+
