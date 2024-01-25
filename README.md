@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🧰 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,figma,flutterflow,gcp,javascript,react,vite,node,flutter,docker,typescript,tensorflow,python,django,mongodb,mysql&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,figma,vscode,gcp,javascript,react,vite,node,flutter,docker,typescript,tensorflow,python,django,mongodb,mysql&perline=9)](https://skillicons.dev)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
