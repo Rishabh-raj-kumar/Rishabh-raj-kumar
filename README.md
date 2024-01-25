@@ -1,14 +1,13 @@
-<h2>
+<p>
  <p>
-- 👋 Hi, I’m Rishabh kumar.
-- 👀 I’m interested in coding and Tea.
+<a>- 👋 Hi, I’m Rishabh kumar.</a>
+<a>- 👀 I’m interested in coding and Tea.</a>
 - 🌱 I’m currently learning web desgining.
 - 💞️ I’m looking to collaborate on google.
 - 📫 i want to do a startup.
  </p>
-
   <img align='right' src="https://github.com/Rishabh-raj-kumar/Rishabh-raj-kumar/assets/108469021/c70a39e9-d0b6-46a0-9d8b-2123aa6bbfaf" width="230">
-  </h2>
+  </p>
 
 <!---
 Rishabh-raj-kumar/Rishabh-raj-kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
