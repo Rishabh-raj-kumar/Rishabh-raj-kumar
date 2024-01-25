@@ -1,7 +1,6 @@
 About me | Uss
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  [![giphy](https://github.com/Rishabh-raj-kumar/Rishabh-raj-kumar/assets/108469021/c70a39e9-d0b6-46a0-9d8b-2123aa6bbfaf)]
-- 👋 Hi, I’m Rishabh kumar.|
+- 👋 Hi, I’m Rishabh kumar.|   [![giphy](https://github.com/Rishabh-raj-kumar/Rishabh-raj-kumar/assets/108469021/c70a39e9-d0b6-46a0-9d8b-2123aa6bbfaf)]
 - 👀 I’m interested in coding and Tea.|
 - 🌱 I’m currently learning web desgining.|
 - 💞️ I’m looking to collaborate on google.|
